@@ -1,1 +1,1 @@
-# mvc-php-native
+Basic example using native PHP and MVC
